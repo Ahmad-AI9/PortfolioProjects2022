@@ -1,7 +1,7 @@
 
 ----Exploring Data of COVID-19---- 
 
-----Skills: Joins, Aggregate Functions, windows Functions----
+----Skills: Joins, Aggregate Functions, window Functions and more to be updated----
 
 select * 
 from portfolioProject.dbo.CovidDeaths
