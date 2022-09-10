@@ -1,3 +1,8 @@
+
+----Exploring Data of COVID-19---- 
+
+----Skills: Joins, Aggregate Functions, windows Functions----
+
 select * 
 from portfolioProject.dbo.CovidDeaths
 where continent is not null
